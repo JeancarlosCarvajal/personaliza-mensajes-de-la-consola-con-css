@@ -7,9 +7,9 @@ Personaliza Mensajes de la Consola con estilos
         // Función aplica sólo a Cadenas de Texto (String)
         function console_log(datos){
             // Creamos los estilos del Console log personalizado
-            var estilo = 'font-size: 25px; background: #03a9f4; color: white; font-weight: bold; padding: 5px 15px;';
+            var estilos = 'font-size: 25px; background: #03a9f4; color: white; font-weight: bold; padding: 5px 15px;';
             // Agregamos los datos y el css al console log
-            console.log('%c' + datos, estilo);
+            console.log('%c' + datos, estilos);
         }
 
         // Probando nuestro Console log personalizado
