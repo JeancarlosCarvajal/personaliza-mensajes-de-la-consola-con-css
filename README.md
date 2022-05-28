@@ -1,5 +1,5 @@
 # personaliza-mensajes-de-la-consola-con-css
-Personaliza mensaje de la Consola con CSS
+Personaliza Mensajes de la Consola con CSS
 
 
     <script>
